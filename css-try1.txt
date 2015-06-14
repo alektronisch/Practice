@@ -1,0 +1,15 @@
+header{
+  
+  text-align: center;
+  font-family: "Helvetica" Helvetica, Verdana, serif;
+ background-image: url("https://download.unsplash.com/photo-1423439793616-f2aa4356b37e");
+}
+p{
+  color: white;
+  font-weight:400;
+  }
+
+  h1{
+    color:white;
+    font-size: 38px;
+    }
